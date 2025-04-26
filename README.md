@@ -20,7 +20,7 @@ This app lets users enter a short text prompt and generates human-like text base
 -  Gradio (for the user interface)
 - ☁ Google Colab (no setup required)
 
-## ▶ How to Run (in Google Colab)
+##  How to Run (in Google Colab)
 
 1. Open the Colab notebook [here](https://colab.research.google.com/)
 2. Copy and paste the following code:
