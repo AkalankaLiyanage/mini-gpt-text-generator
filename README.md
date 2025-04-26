@@ -1,26 +1,26 @@
 
-# 🧠 Mini GPT Text Generator
+#  Mini GPT Text Generator
 
 A simple and fun web app that generates text using the DistilGPT-2 model (a lightweight version of GPT-2). Built with Hugging Face Transformers and Gradio.
 
-## 🚀 Project Overview
+##  Project Overview
 
 This app lets users enter a short text prompt and generates human-like text based on that prompt using a pre-trained generative AI model. It’s lightweight, easy to run on Google Colab, and designed for education and creative content generation.
 
-## ✨ Features
+##  Features
 
 - Accepts text input from the user
 - Generates multiple creative completions
 - Adjustable length and randomness (`max_length` & `temperature`)
 - Clean, interactive Gradio interface
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-- 🤗 Hugging Face Transformers (`DistilGPT-2`)
-- 🔧 Gradio (for the user interface)
-- ☁️ Google Colab (no setup required)
+-  Hugging Face Transformers (`DistilGPT-2`)
+-  Gradio (for the user interface)
+- ☁ Google Colab (no setup required)
 
-## ▶️ How to Run (in Google Colab)
+## ▶ How to Run (in Google Colab)
 
 1. Open the Colab notebook [here](https://colab.research.google.com/)
 2. Copy and paste the following code:
@@ -45,15 +45,15 @@ gr.Interface(fn=generate_text,
              ).launch(share=True)
 ```
 
-3. Run the code blocks — your app will be live on a public URL 🎉
+3. Run the code blocks — your app will be live on a public URL 
 
-## 📚 Example Prompts
+##  Example Prompts
 
 - "Once upon a time in Tokyo,"
 - "The secret to happiness is"
 - "AI in the future will be"
 
-## 👨‍💻 Author
+##  Author
 
 Created by [Akalanka Liyanage]  
 📅 April 2025
