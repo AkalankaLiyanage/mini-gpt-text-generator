@@ -56,8 +56,8 @@ gr.Interface(fn=generate_text,
 ##  Author
 
 Created by [Akalanka Liyanage]  
-📅 April 2025
+ April 2025
 
-## 📌 Note
+##  Note
 
 The public link generated (`gradio.live`) will expire when Colab shuts down or after ~90 mins of inactivity.
